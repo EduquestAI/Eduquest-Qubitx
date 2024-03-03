@@ -1,0 +1,3 @@
+# Eduquest Backend Prompts
+
+These Prompts are really the heart of this project and the most valueable information to Eduquest and its team so since this is the case we have deemed this information proprietary and will keep it censored in this public repository. Hopefully this isn't an issue for the Qubitx Hackathon and if you want to contact us for more info or if you have any questions, email: `admin@eduquest.me`
